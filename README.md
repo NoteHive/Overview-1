@@ -14,7 +14,7 @@ We pioneer advanced scientific research for exploration and mapping of the unive
 
 :pencil: For the contributors, use these codes to help your research and in writing your copy.
 
-# Marisa Research:
+### Marisa Research:
 NAICS Codes: 481100, 483113, 483211, 484121
 
 SIC Codes: 10-13, 45-47, 60-69
