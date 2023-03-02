@@ -22,5 +22,5 @@ RevelTek being a tech Consultation Company provides consultation services to bus
 ## AT REVELTEK THE COMPANY WILL REVEL UP THE EMPLOYEES 
 
 # Timmsi Land
-Timmsi Land is a virtual training and development platform for employees. It provides an array of courses, tools, and resources designed to help employees grow and develop their skills. It offers courses on topics such as ITIL, AGILE, LEAN, SDLC, and Sigma. It also provides resources such as webinars, podcasts, and articles to help employees stay up to date with the latest trends in the industry. Additionally, Timmsi Land offers a variety of tools and features to help employees track their progress and measure their success.
-
+Timmsi Land is a virtual training and development platform for interns and employees. It provides an array of courses, tools, and resources designed to help employees grow and develop their skills. It offers courses on topics such as ITIL, AGILE, LEAN, SDLC, and Sigma. It also provides resources such as webinars, podcasts, and articles to help employees stay up to date with the latest trends in the industry. Additionally, Timmsi Land offers a variety of tools and features to help employees track their progress and measure their success.
+Therefore, RevelTek keep eyes on Timmsi Land's employees & interns and as soon as employees & inerns gets trained RevelTek hires them. Who then complete projects and consulatation projects for World Enterprise and other clients. 
