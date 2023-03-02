@@ -13,3 +13,6 @@ World Enterprise will use ORBITAL made by INSTAR Lab to build world. RT will be 
      * Launch Products
 
 # RevelTek
+RT will provide consultation on behalf of WE (World Enterprise). RT will be doing the main work. RT will be making products and handing it to World Enterprise. Enterprise will then be the face of product. The world will see the product made by RT. RT will be working at the back end. WE will be working at the front end. 
+   * Provide Consulting
+   * Tech Consulting
