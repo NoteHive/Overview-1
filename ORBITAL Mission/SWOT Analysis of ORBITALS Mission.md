@@ -21,7 +21,8 @@ The project is time-consuming and requires a lot of patience.
 The project is expensive and requires a lot of funding.
 
 
-Opportunities:	
+## Opportunities:	
+
 The project can open up new markets and opportunities.
 The project can create new jobs and help the economy.
 The project can help to create new technologies and products.
