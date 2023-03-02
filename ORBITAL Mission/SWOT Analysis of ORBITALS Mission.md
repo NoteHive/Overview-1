@@ -29,7 +29,8 @@ The project can help to create new technologies and products.
 The project can help to improve the quality of life.
 
 
-Threats:
+## Threats:
+
 The project can be delayed due to unforeseen circumstances.
 The project can be affected by political and economic instability.
 The project can be affected by changes in technology.
