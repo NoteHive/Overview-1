@@ -4,7 +4,8 @@ SWOT stands for Strengths, Weaknesses, Opportunities and Threats. It is a tool u
 
 Here is a SWOT analysis of the ORBITAL Mission.
 
-Strengths:
+## Strengths:
+
 The ORBITAL Mission has a clear and well-defined goal.
 The project has the support of four different platforms.
 The project has a 4-step sequence that is easy to follow.	
@@ -12,7 +13,8 @@ The project has a strong team of experts and professionals.
 The project has access to resources and technology.
 
 
-Weaknesses:
+## Weaknesses:
+
 The project is complex and requires a lot of resources.
 The project requires a lot of coordination between the different platforms.
 The project is time-consuming and requires a lot of patience.
