@@ -42,36 +42,38 @@ Step 5: Continuous Improvement
 * Explore new ways to adapt the project to different contexts and user needs.
 * Consider expanding the project's offerings to reach a wider audience and impact more industries and sectors.
 
+---
+
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       Adding GANTT diagram functionality to mermaid
+    title       Step 1: Create Processes for Each Letter of D.R.O.I.D.
     excludes    weekends
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
-    section A section
-    Completed task            :done,    des1, 2014-01-06,2014-01-08
-    Active task               :active,  des2, 2014-01-09, 3d
-    Future task               :         des3, after des2, 5d
-    Future task2              :         des4, after des3, 5d
+    section DESIGN Process
+    Create Issues                     :crit, active, des1, 2023-03-07, 2023-03-10    
+    Create markdown file              :active, des2, 2023-03-07, 2023-03-10
+    Research Existing DESIGN Processes     :des3, 2023-03-07, 2d
+    Create Connection to RESEARCH Process  :des4, 2023-03-08, 2d
 
-    section Critical tasks
-    Completed task in the critical line :crit, done, 2014-01-06,24h
-    Implement parser and jison          :crit, done, after des1, 2d
-    Create tests for parser             :crit, active, 3d
-    Future task in critical line        :crit, 5d
-    Create tests for renderer           :2d
-    Add to mermaid                      :1d
-    Functionality added                 :milestone, 2014-01-25, 0d
+    section RESEARCH Process
+    Create Issues                     :crit, des4, 2023-03-13, 2023-03-17    
+    Create markdown file              :des5, 2023-03-13, 2023-03-17
+    Research Existing RESEARCH Processes     :des6, 2023-03-13, 3d
+    Create Connection to OPTIMIZE Process  :des7, 2023-03-15, 2d
 
-    section Documentation
-    Describe gantt syntax               :active, a1, after des1, 3d
-    Add gantt diagram to demo page      :after a1  , 20h
-    Add another diagram to demo page    :doc1, after a1  , 48h
+    section OPTIMIZE Process
+    Create Issues                     :crit, des8, 2023-03-20, 2023-03-24    
+    Create markdown file              :des9, 2023-03-20, 2023-03-24
+    Research Existing OPTIMIZATION Processes     :des10, 2023-03-20, 3d
+    Create Connection to INTEGRATE Process  :des11, 2023-03-22, 2d
 
-    section Last section
-    Describe gantt syntax               :after doc1, 3d
-    Add gantt diagram to demo page      :20h
-    Add another diagram to demo page    :48h
+    section INTEGRATE Process
+    Create Issues                     :crit, des12, 2023-03-27, 2023-03-31    
+    Create markdown file              :des13, 2023-03-27, 2023-03-31
+    Research Existing INTEGRATION Processes     :des14, 2023-03-27, 3d
+    Create Connection to DELIVER Process  :des15, 2023-03-30, 2d
+
 
 ```
