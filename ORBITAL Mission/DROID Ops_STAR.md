@@ -69,11 +69,46 @@ gantt
     Research Existing OPTIMIZATION Processes     :des10, 2023-03-20, 3d
     Create Connection to INTEGRATE Process  :des11, 2023-03-22, 2d
 
+```
+
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    excludes    weekends
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+
+
     section INTEGRATE Process
     Create Issues                     :crit, des12, 2023-03-27, 2023-03-31    
     Create markdown file              :des13, 2023-03-27, 2023-03-31
     Research Existing INTEGRATION Processes     :des14, 2023-03-27, 3d
-    Create Connection to DELIVER Process  :des15, 2023-03-30, 2d
+    Create Connection to DELIVER Process  :des15, 2023-03-29, 2d
 
+    section DELIVER Process
+    Create Issues                     :crit, des16, 2023-04-03, 2023-04-07    
+    Create markdown file              :des17, 2023-04-03, 2023-04-07
+    Research Existing INTEGRATION Processes     :des18, 2023-04-03, 3d
+    Create Connection to DELIVER Process  :des19, 2023-04-05, 2d
+
+```
+
+---
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title       Step 2: Compile Data and Case Studies
+    excludes    weekends
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+
+    section Implementation
+    Design Implementation Process     :crit, des1, 2023-04-10, 2023-04-13
+    Design Monitoring Process              :2d
+    Design Evaluation Process     :2d
+    Implementation Stage        :14d
+    Collect Data & Statistics  :milestone, 2d
+    Gather Case Studies & Testimonials  :2d
+    Analysis of Data & Statistics  :5d
 
 ```
